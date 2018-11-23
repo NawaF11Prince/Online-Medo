@@ -35,8 +35,8 @@ client.user.setGame(`صيآنة`,"http://twitch.tv/S-F")
 
 client.on('ready', function(){    
     var ms = 40000 ;    
-    var setGame = [` MeDoo Is Legend
- : `," Legends Owner"];    
+    var setGame = [` Majd #TrixMC
+ : `," 24Hours."];    
     var i = -1;    
     var j = 0;    
     setInterval(function (){    
